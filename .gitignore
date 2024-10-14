@@ -1,0 +1,115 @@
+# ========================
+# Python
+# ========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Django-related
+*.log
+*.pot
+*.pyc
+db.sqlite3
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# ========================
+# Node.js / JavaScript / TypeScript
+# ========================
+
+# Node modules
+node_modules/
+
+# Production build directories
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Parcel-bundler cache
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# ========================
+# Environment / Secrets
+# ========================
+
+# dotenv environment variable files
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ========================
+# Operating System Files
+# ========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.Trash-*
+
+# ========================
+# IDE / Editor Files
+# ========================
+
+# Visual Studio Code
+.vscode/
+.code-workspace
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ========================
+# Backup / Temporary Files
+# ========================
+
+*.bak
+*.swp
+*.swo
+*.tmp
+~$*
+
+# ========================
+# Others
+# ========================
+
+# Python egg cache
+*.egg
+*.egg-info/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Git-specific
+*.orig
