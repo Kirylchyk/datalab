@@ -1,0 +1,9 @@
+# Text files with consistent LF line endings
+*.js text eol=lf
+*.ts text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+
+# Windows-specific line endings
+*.bat text eol=crlf
